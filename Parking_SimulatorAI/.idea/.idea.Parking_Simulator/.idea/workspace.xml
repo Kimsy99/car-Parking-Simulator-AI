@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75b27f03-a54e-4686-ad90-cefd27f2c57a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../SWE/carpseudoCode/ConsoleApplication1/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIinfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NeuralNetwork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RunBestGen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerStay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Car_Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Obs_Collision.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Car_Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/FollowPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Car_Collision.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/path.cs" />
+        <option value="$PROJECT_DIR$/Assets/npath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Path.cs" />
+        <option value="$PROJECT_DIR$/Assets/trigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/TriggerEnt.cs" />
+        <option value="$PROJECT_DIR$/Assets/TriggerStay.cs" />
+        <option value="$PROJECT_DIR$/../SWE/carpseudoCode/ConsoleApplication1/Program.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Car_Collision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Clone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIinfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEnt.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obs_Collision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RunBestGen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Clone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NeuralNetwork.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Car_Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerStay.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U3goeapgaItNDucPXsodxRwTYC" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Inspections-C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="4152">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="4152" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75b27f03-a54e-4686-ad90-cefd27f2c57a" name="Default Changelist" comment="" />
+      <created>1574590869728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574590869728</updated>
+      <workItem from="1574590875078" duration="101000" />
+      <workItem from="1574591022374" duration="249000" />
+      <workItem from="1574592625094" duration="1774000" />
+      <workItem from="1574594974356" duration="89000" />
+      <workItem from="1574595099395" duration="29000" />
+      <workItem from="1574604142915" duration="4524000" />
+      <workItem from="1574613324912" duration="1058000" />
+      <workItem from="1574615390723" duration="4000" />
+      <workItem from="1574616149057" duration="2705000" />
+      <workItem from="1574619795685" duration="122000" />
+      <workItem from="1574620207431" duration="4000" />
+      <workItem from="1574620552550" duration="91000" />
+      <workItem from="1574620669464" duration="56000" />
+      <workItem from="1574620782049" duration="31000" />
+      <workItem from="1574621077829" duration="31000" />
+      <workItem from="1574643277176" duration="601000" />
+      <workItem from="1574646620572" duration="693000" />
+      <workItem from="1574652454824" duration="611000" />
+      <workItem from="1574653443587" duration="516000" />
+      <workItem from="1574654015128" duration="53000" />
+      <workItem from="1574654596530" duration="1668000" />
+      <workItem from="1574656389024" duration="8000" />
+      <workItem from="1574656420013" duration="13000" />
+      <workItem from="1574656545056" duration="998000" />
+      <workItem from="1574776288102" duration="2591000" />
+      <workItem from="1574779085516" duration="4343000" />
+      <workItem from="1575093926264" duration="7847000" />
+      <workItem from="1575101828971" duration="32298000" />
+      <workItem from="1575263906089" duration="27000" />
+      <workItem from="1575263937033" duration="21000" />
+      <workItem from="1575265682645" duration="89000" />
+      <workItem from="1575272500658" duration="1217000" />
+      <workItem from="1575278875919" duration="1595000" />
+      <workItem from="1575281452854" duration="220000" />
+      <workItem from="1575295002224" duration="4360000" />
+      <workItem from="1575299390753" duration="56000" />
+      <workItem from="1575299549563" duration="5439000" />
+      <workItem from="1575444734848" duration="1251000" />
+      <workItem from="1575446009038" duration="4220000" />
+      <workItem from="1575450978920" duration="1004000" />
+      <workItem from="1575469614250" duration="10121000" />
+      <workItem from="1575508095810" duration="13450000" />
+      <workItem from="1575727240063" duration="2336000" />
+      <workItem from="1576152873035" duration="9058000" />
+      <workItem from="1576162510618" duration="3955000" />
+      <workItem from="1576168394259" duration="6107000" />
+      <workItem from="1576225344319" duration="681000" />
+      <workItem from="1576226169532" duration="22598000" />
+      <workItem from="1576259763782" duration="1789000" />
+      <workItem from="1576484168661" duration="1410000" />
+      <workItem from="1576485961063" duration="1312000" />
+      <workItem from="1576487758940" duration="876000" />
+      <workItem from="1576488776982" duration="555000" />
+      <workItem from="1576489557110" duration="4480000" />
+      <workItem from="1576560733622" duration="11525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/NeuralNetwork.cs</url>
+          <line>238</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/NeuralNetwork.cs" initialLine="244">
+            <startOffsets>
+              <option value="7651" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7673" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/NeuralNetwork.cs</url>
+          <line>332</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/NeuralNetwork.cs" initialLine="324">
+            <startOffsets>
+              <option value="10683" />
+            </startOffsets>
+            <endOffsets>
+              <option value="10684" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

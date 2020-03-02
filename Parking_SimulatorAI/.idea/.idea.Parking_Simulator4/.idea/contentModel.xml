@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Parking_Simulator4.-1727639144.00" t="ExcludeRecursive" />
+    <e p="D:\University Files\SWE Y2 S1\Principles of Artificial Intelligence\Parking_Simulator finals\Parking_Simulator4" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Car_Movement.cs" t="Include" />
+          <e p="Clone.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="Health.cs" t="Include" />
+          <e p="NeuralNetwork.cs" t="Include" />
+          <e p="Obs_Collision.cs" t="Include" />
+          <e p="PlayerScore.cs" t="Include" />
+          <e p="RunBestGen.cs" t="Include" />
+          <e p="TriggerEnt.cs" t="Include" />
+          <e p="TriggerStay.cs" t="Include" />
+          <e p="UIinfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Parking_Simulator4.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
